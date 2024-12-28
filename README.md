@@ -1,1 +1,0 @@
-# super-rare-finder
